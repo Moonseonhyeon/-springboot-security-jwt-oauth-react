@@ -1,0 +1,29 @@
+package com.cos.jwtex01.config.oauth.provider;
+
+public class GoogleUser implements OAuth2UserInfo{
+
+	@Override
+	public String getProviderId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getProvider() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getEmail() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

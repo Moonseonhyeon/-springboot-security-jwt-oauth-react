@@ -1,0 +1,17 @@
+package com.cos.jwtex01.controller;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class JwtCreateController {
+	
+	@PostMapping("/oauth/jwt/google") //구글 페이스북 다 따로 할거면 따로 만들고 공통으로 할거면 공통으로
+	public String createJwt(@RequestBody String data) { //json문자열 그대로 받을 예정
+		System.out.println("jwtCreate 실행됨");
+		System.out.println("data");
+		return "jwt Token is created";
+	}
+
+}
