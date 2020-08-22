@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file:///C:\src\jwtreact\Springboot-Security-JWT-Easy"/>
 		<item value="https://github.com/codingspecialist/Springboot-Security-JWT-Easy.git"/>
 		<item value="https://github.com/codingspecialist/Springboot-JWT-React-OAuth2.0-Eazy.git"/>
 		<item value="https://github.com/codingspecialist/Springboot-Security-OAuth2.0-V2.git"/>

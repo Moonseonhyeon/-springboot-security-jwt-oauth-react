@@ -26,7 +26,7 @@ const responseGoogle = async (response) => {
 const Login = () => {
   return (
     <GoogleLogin
-      clientId=""
+      clientId="328371954729-6uhg5t06evo16c9voi5hhpigg2all7n3.apps.googleusercontent.com"
       buttonText="Login"
       onSuccess={responseGoogle}
       onFailure={responseGoogle}
