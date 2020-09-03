@@ -16,9 +16,15 @@
 		<item key="uncategorizedFilter" value="true"/>
 	</section>
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.jsdt.ui.NewJSWizard"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
 		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".mustache"/>
+		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="false"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="org.eclipse.wst.html.core.htmlsource.source"/>
 	</section>
 </section>

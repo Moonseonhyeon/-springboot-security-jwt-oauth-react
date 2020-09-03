@@ -58,6 +58,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\src\jwtreact\aruerue-back"/>
 			<item value="C:\src\jwtreact\jwt-oauth-springboot-security-react-test-arue"/>
 			<item value="C:\src\jwtreact\Springboot-Security-JWT-Easy"/>
 			<item value="C:\Users\admin\git\Springboot-Security-JWT-Easy"/>
